@@ -1,5 +1,6 @@
 # Go
 /build/
+/dist/
 *.exe
 *.exe~
 *.dll
