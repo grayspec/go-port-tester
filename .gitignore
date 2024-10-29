@@ -1,0 +1,39 @@
+# Go
+/build/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# log
+*.log
+
+# env
+.env
+*.local
+
+# Go mod files
+/go.sum
+/go.mod
+*.out
+vendor/
+
+# Project settings
+.idea/
+.vscode/
+*.swp
+
+# results
+*.csv
+result.csv
+access_log.csv
+report.csv
